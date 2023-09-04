@@ -1,0 +1,1321 @@
+{
+    "data":
+    {
+        "artistsInfo":
+        {},
+        "bmsId": "1.666387628.1693751892192",
+        "eventCards":
+        {
+            "SPSM":
+            {
+                "20231014":
+                {
+                    "1400":
+                    {
+                        "ET00367559-10065-T312":
+                        {
+                            "AreaCatCode": "AC00000177",
+                            "AvailableSeats": 71,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "3500.00",
+                            "PriceCode": "T312",
+                            "PriceDesc": "BLOCK B BAY 7-LOWER",
+                            "PriceDescEX":
+                            [],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 500,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T319":
+                        {
+                            "AreaCatCode": "AC00000184",
+                            "AvailableSeats": 32,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "3500.00",
+                            "PriceCode": "T319",
+                            "PriceDesc": "BLOCK C BAY 5-LOWER",
+                            "PriceDescEX":
+                            [],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 500,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T322":
+                        {
+                            "AreaCatCode": "AC00000187",
+                            "AvailableSeats": 1,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 1,
+                            "Price": "6000.00",
+                            "PriceCode": "T322",
+                            "PriceDesc": "BLOCK D BAY 3-LOWER",
+                            "PriceDescEX":
+                            [],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 200,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T329":
+                        {
+                            "AreaCatCode": "AC00000194",
+                            "AvailableSeats": 0,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 0,
+                            "Price": "6000.00",
+                            "PriceCode": "T329",
+                            "PriceDesc": "BLOCK E BAY 5-LOWER",
+                            "PriceDescEX":
+                            [],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "N",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 400,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T335":
+                        {
+                            "AreaCatCode": "AC00000200",
+                            "AvailableSeats": 0,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 0,
+                            "Price": "3500.00",
+                            "PriceCode": "T335",
+                            "PriceDesc": "BLOCK F BAY 4-LOWER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "N",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 400,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T342":
+                        {
+                            "AreaCatCode": "AC00000207",
+                            "AvailableSeats": 72,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "3500.00",
+                            "PriceCode": "T342",
+                            "PriceDesc": "BLOCK G BAY 7-LOWER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 500,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T346":
+                        {
+                            "AreaCatCode": "AC00000211",
+                            "AvailableSeats": 2,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 2,
+                            "Price": "4500.00",
+                            "PriceCode": "T346",
+                            "PriceDesc": "BLOCK H BAY 2-LOWER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 383,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T352":
+                        {
+                            "AreaCatCode": "AC00000217",
+                            "AvailableSeats": 0,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 0,
+                            "Price": "2500.00",
+                            "PriceCode": "T352",
+                            "PriceDesc": "BLOCK J BAY 3-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "N",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 657,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T361":
+                        {
+                            "AreaCatCode": "AC00000226",
+                            "AvailableSeats": 31,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "2000.00",
+                            "PriceCode": "T361",
+                            "PriceDesc": "BLOCK K BAY 7-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 700,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T367":
+                        {
+                            "AreaCatCode": "AC00000232",
+                            "AvailableSeats": 99,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "2000.00",
+                            "PriceCode": "T367",
+                            "PriceDesc": "BLOCK L BAY 4-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 600,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T372":
+                        {
+                            "AreaCatCode": "AC00000237",
+                            "AvailableSeats": 261,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "4000.00",
+                            "PriceCode": "T372",
+                            "PriceDesc": "BLOCK M BAY 4-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 700,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T379":
+                        {
+                            "AreaCatCode": "AC00000244",
+                            "AvailableSeats": 160,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "4000.00",
+                            "PriceCode": "T379",
+                            "PriceDesc": "BLOCK N BAY 6-UPPER",
+                            "PriceDescEX":
+                            [],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 695,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T384":
+                        {
+                            "AreaCatCode": "AC00000249",
+                            "AvailableSeats": 35,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "2000.00",
+                            "PriceCode": "T384",
+                            "PriceDesc": "BLOCK P BAY 4-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 700,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T392":
+                        {
+                            "AreaCatCode": "AC00000257",
+                            "AvailableSeats": 58,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "2000.00",
+                            "PriceCode": "T392",
+                            "PriceDesc": "BLOCK Q BAY 7-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 699,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        },
+                        "ET00367559-10065-T397":
+                        {
+                            "AreaCatCode": "AC00000262",
+                            "AvailableSeats": 81,
+                            "CategorySalesChannel": "|M5|MOBILE|OUTLET|PAYLATER|POS|TP|WEB|",
+                            "CinemaIsSVG": "NONSVG",
+                            "DynamicPrice": "",
+                            "EventCode": "ET00367559",
+                            "IsSVG": "Y",
+                            "MaxTickets": 10,
+                            "Price": "2500.00",
+                            "PriceCode": "T397",
+                            "PriceDesc": "BLOCK R BAY 3-UPPER",
+                            "PriceDescEX":
+                            [
+                                " "
+                            ],
+                            "PriceSequence": "1",
+                            "SeatLayout": "Y",
+                            "SeatsAvail": "Y",
+                            "SessionID": "10065",
+                            "ShowDateDisplay": "Saturday, 14 Oct",
+                            "ShowTime": "02:00 PM",
+                            "TotalSeats": 700,
+                            "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                            "VenueCode": "SPSM",
+                            "VenueMax": "",
+                            "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                            "cutOffTime": 202310142359,
+                            "dtmTime": "14-10-2023 14:00:00",
+                            "location": "Ahmedabad"
+                        }
+                    }
+                }
+            }
+        },
+        "eventInfo":
+        {
+            "actualVenueKey": "SPSM",
+            "availableFlows":
+            [
+                "seat-layout$aerialcanvas"
+            ],
+            "banner":
+            {
+                "desktop":
+                [
+                    {
+                        "href": "",
+                        "name": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023",
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-pakistan-icc-mens-cwc-2023-0-2023-8-28-t-8-30-26.jpg",
+                        "type": "image",
+                        "videoUrl": ""
+                    }
+                ],
+                "mobile":
+                [
+                    {
+                        "href": "",
+                        "name": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023",
+                        "src": "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-india-vs-pakistan-icc-mens-cwc-2023-0-2023-8-28-t-8-30-27.jpg",
+                        "type": "image",
+                        "videoUrl": ""
+                    }
+                ],
+                "webListing":
+                [
+                    {
+                        "caption": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023",
+                        "etCode": "ET00367559",
+                        "name": "india-vs-pakistan-icc-mens-cwc-2023-et00367559-2023-8-28-t-8-30-26.jpg",
+                        "size": 45481,
+                        "thumbnail": "",
+                        "type": "image",
+                        "url": "https://assets-in.bmscdn.com/nmcms/events/banner/weblisting/india-vs-pakistan-icc-mens-cwc-2023-et00367559-2023-8-28-t-8-30-26.jpg"
+                    }
+                ]
+            },
+            "boSettings":
+            {
+                "customDate": false,
+                "customPrice": false,
+                "webRedirectURL": false
+            },
+            "cityKey": "Ahmedabad",
+            "dateKey": "20231014",
+            "dates":
+            {
+                "end":
+                {
+                    "date": "20231014",
+                    "time": "1400"
+                },
+                "start":
+                {
+                    "date": "20231014",
+                    "time": "1400"
+                }
+            },
+            "eventCode": "ET00367559",
+            "genreForAnalytics":
+            [
+                "Cricket",
+                "ODI"
+            ],
+            "goLiveDate":
+            [
+                "20 Aug,",
+                "Sunday Onwards"
+            ],
+            "groupedEventCodes":
+            [],
+            "metaFromDE":
+            {
+                "BannerURL": "//in.bmscdn.com/Events/Mobile/ET00367559.jpg?202309030800",
+                "eventType": "SP",
+                "fshareUrl": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                "genre":
+                [],
+                "imageCode": "india-vs-pakistan-icc-mens-cwc-2023-et00367559-2023-8-28-t-8-30-26",
+                "language": "",
+                "length": "",
+                "releaseDate": "",
+                "title": "INDIA vs PAKISTAN  - ICC MEN'S CWC 2023",
+                "webRedirectUrl": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559"
+            },
+            "offers":
+            {
+                "items":
+                []
+            },
+            "preSale":
+            {
+                "label": ""
+            },
+            "price":
+            {
+                "maxPrice": 6000,
+                "minPrice": 2000
+            },
+            "published": true,
+            "regMetaConfig":
+            {},
+            "serverTime": 1693751892204,
+            "settings":
+            {
+                "appcodes":
+                {
+                    "external":
+                    [
+                        "ANDNCPA",
+                        "BMSMMT",
+                        "IOSNCPA",
+                        "NCPA"
+                    ],
+                    "internal":
+                    [
+                        "ANDTV",
+                        "MITV",
+                        "WEBOS",
+                        "JIOTV",
+                        "FIRETV",
+                        "MOBAND2",
+                        "MOBIOS3",
+                        "OUTLET",
+                        "OUTLETMAMI",
+                        "OUTLETPDF",
+                        "OUTLETSMS",
+                        "OUTLTSCSMS",
+                        "PAYLATER",
+                        "POS",
+                        "TIZEN",
+                        "TIZENTV",
+                        "TVAND",
+                        "TVAPL",
+                        "TVFIRE",
+                        "TVJIO",
+                        "TVLG",
+                        "TVMI",
+                        "TVOS",
+                        "TVSAM",
+                        "WEB",
+                        "WEBASI",
+                        "WEBIN",
+                        "WEBTOUCH",
+                        "WEBV2"
+                    ]
+                },
+                "category":
+                [
+                    "Cricket"
+                ],
+                "categoryTemp": null,
+                "code": "ET00367559",
+                "codes":
+                [],
+                "duration": 0,
+                "eventGroupCode": "EG00366409",
+                "eventStartDate": "2023-10-14T00:00:00Z",
+                "eventTags":
+                [
+                    "outdoor-events",
+                    "age-bucket-16-to-21",
+                    "age-bucket-22-to-30",
+                    "age-bucket-31-to-45",
+                    "age-bucket-46-to-55",
+                    "age-bucket-55-plus",
+                    "age-bucket-8-to-15",
+                    "icc-cricket-world-cup",
+                    "queuing"
+                ],
+                "eventTagsTemp": null,
+                "festivalPassBanner": "",
+                "festivalPassBannerWeb": "",
+                "festivalPassLogo": "",
+                "genre":
+                [],
+                "genreTemp": null,
+                "golive": "2023-08-19T18:30:00Z",
+                "imageCode": "india-vs-pakistan-icc-mens-cwc-2023-et00367559-2023-9-3-t-14-29-57",
+                "isValid": false,
+                "languageCodes":
+                [],
+                "languages":
+                [],
+                "level4Category":
+                [],
+                "level4CategoryTemp": null,
+                "parentID": "ET00367203",
+                "parentURL": "https://in.bookmyshow.com/sports/icc-mens-cricket-world-cup-india-2023/ET00367203?webview=true",
+                "region": "AHD",
+                "regionDetails":
+                [],
+                "searchTags":
+                [],
+                "showDateRange": false,
+                "subCategory":
+                [
+                    "ODI"
+                ],
+                "subCategoryTemp": null,
+                "subGenres":
+                [],
+                "subGenresTemp": null,
+                "type": "sports",
+                "typeTemp": "",
+                "url": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559?webview=true"
+            },
+            "sortingType": "regionWise",
+            "sponsorship":
+            {
+                "sponsorData":
+                [
+                    {
+                        "imageShowcase":
+                        {
+                            "description": "",
+                            "image":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "imageName": "",
+                            "logo":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "leadGen":
+                        {
+                            "description": "",
+                            "logo":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "logoShowcase":
+                        {
+                            "logo":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": ""
+                        },
+                        "showcaseType": "",
+                        "textAndImage":
+                        {
+                            "description": "",
+                            "feature":
+                            {
+                                "feature1": "",
+                                "feature2": "",
+                                "feature3": "",
+                                "feature4": ""
+                            },
+                            "image":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "imageName": "",
+                            "logo":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "redirectURL": "",
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": ""
+                        },
+                        "tierType": "",
+                        "videoShowcase":
+                        {
+                            "description": "",
+                            "logo":
+                            {
+                                "caption": "",
+                                "fileType": "",
+                                "name": "",
+                                "size": 0,
+                                "targetURL": "",
+                                "thumbnail": "",
+                                "type": "",
+                                "url": ""
+                            },
+                            "sponsorName": "",
+                            "sponsorType": "",
+                            "title": "",
+                            "videoURL": ""
+                        }
+                    }
+                ]
+            },
+            "status": "active",
+            "ticketQtyLock":
+            {
+                "cmsFlow": true,
+                "interval": 1,
+                "isDisabledOnSynopsis": false,
+                "isValid": true,
+                "limit": 2,
+                "max": 10,
+                "min": 1,
+                "uniqueUser": true
+            },
+            "ticketmodeSettings":
+            {
+                "cmsFlow": true,
+                "electronicTicket":
+                {
+                    "cutoff": 0,
+                    "description": "",
+                    "enabled": false,
+                    "encryptionEnabled": false,
+                    "qrCodeType": "",
+                    "sectionTitle": "",
+                    "templateId": "",
+                    "transferable": false,
+                    "type": ""
+                },
+                "isValid": true,
+                "pageTitle": "Ticket options"
+            },
+            "timeKey": "1400",
+            "title": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023",
+            "venueKey": "SPSM",
+            "widgets":
+            {
+                "liveStreaming":
+                {
+                    "enableDonation": false,
+                    "enableLiveStreaming": false,
+                    "linkDetails":
+                    {
+                        "ccemails":
+                        [],
+                        "emails":
+                        [],
+                        "embedLink": "",
+                        "enablePlaylist": false,
+                        "jobID": "",
+                        "linkType": "",
+                        "rtmpEndpoint": "",
+                        "streamKey": ""
+                    },
+                    "playerID": "",
+                    "streamingURL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559/live?webview=true"
+                },
+                "saavn":
+                {
+                    "isEnabled": false
+                }
+            }
+        },
+        "flags":
+        {
+            "IsTicketCategorySelection": false,
+            "areSessionsClosed": false,
+            "checkMaximumTicketLock": false,
+            "enableFakeSeatBlocking": true,
+            "gstInvoiceEnabled": true,
+            "hasCorporateBooking": false,
+            "hasDynamicPricing": false,
+            "hasEventStartDatePassed": false,
+            "hasFestivalPass": false,
+            "hasHDPickup": false,
+            "hasNewPresales": false,
+            "hasOffer": false,
+            "hasOptionalForm": false,
+            "hasOverViewLayout": true,
+            "hasPresales": false,
+            "hasPresalesOnHold": false,
+            "hasPresalesPassed": false,
+            "hasPresalesRegistration": false,
+            "hasSeatLayoutInTickets": true,
+            "hasSeatsViewLayout": false,
+            "hasSelectionViewLayout": false,
+            "hasStandalone": false,
+            "hideBookingCTA": false,
+            "isCalendar": false,
+            "isCarousel": false,
+            "isCart": false,
+            "isComingSoon": false,
+            "isDescDriven": false,
+            "isFilmFestival": false,
+            "isGroupPage": false,
+            "isHomeDelivery": false,
+            "isMTicket": false,
+            "isMerchandise": false,
+            "isMultiCategory": false,
+            "isMultipleForm": false,
+            "isPickup": false,
+            "isRSVP": false,
+            "isRegistration": false,
+            "isSearchable": true,
+            "isSkippable": false,
+            "isSoldOut": false,
+            "isTargettingTickets": false,
+            "isTransactional": false,
+            "isUserLocked": false,
+            "isVaccination": false,
+            "showAds": true,
+            "showDateRange": false,
+            "showInterestedSection": false,
+            "showSalesTrend": true,
+            "showSimilarEvents": false,
+            "status": false,
+            "virtualEventEnabled": false
+        },
+        "groupInfo": null,
+        "payment":
+        {
+            "flags":
+            {
+                "singleTransaction": false,
+                "zeroBookingFee": false
+            },
+            "handler": "native",
+            "validatedCheckout": false
+        },
+        "reasonsToAttend":
+        [
+            "",
+            "",
+            ""
+        ],
+        "seating":
+        {
+            "flags":
+            {
+                "enableUSS": true,
+                "enabled360": false
+            },
+            "isValid": false,
+            "layoutFlow": "aerialview"
+        },
+        "seoInfo":
+        {
+            "canonicalURL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+            "description": "Book tickets for IND vs PAK World Cup Match on BookMyShow. Experience India vs Pakistan live from the stadium at biggest cricket event of the year happening at Narendra Modi Stadium, Motera: Ahmedabad",
+            "eventStatus": "",
+            "flags":
+            {
+                "blockSEOBot": false,
+                "isDescriptionChanged": false
+            },
+            "keywords": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023 tickets, INDIA vs PAKISTAN  - ICC MEN`S CWC 2023 in Narendra Modi Stadium, Motera: Ahmedabad,",
+            "mainEventType": "SportsEvent",
+            "noindex": "",
+            "place": "Place",
+            "redirects":
+            [
+                ""
+            ],
+            "schema":
+            [
+                {
+                    "@context": "https://schema.org",
+                    "@type": "SportsEvent",
+                    "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                    "description": "Anticipation reaches its peak as the world of cricket braces for India against Pakistan. On 14 October, the Narendra Modi Stadium in Ahmedabad will host an iconic showdown between the cricket giants. This long-awaited encounter has captured the hearts of billions, promising a spectacle of passion and rivalry. The narrative unfolds as India aims to uphold their unblemished record in ODI World Cups against Pakistan&#39;s determined resurgence. Brace yourself for an unforgettable moment that will redefine the meaning of rivalry, marking history in the realm of cricket. ",
+                    "doortime": "02:00 PM",
+                    "endDate": "2023-10-14T14:00:00Z",
+                    "eventStatus": "EventScheduled",
+                    "image":
+                    [
+                        "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-india-vs-pakistan-icc-mens-cwc-2023-0-2023-8-28-t-8-30-26.jpg",
+                        "https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-india-vs-pakistan-icc-mens-cwc-2023-0-2023-8-28-t-8-30-27.jpg"
+                    ],
+                    "location":
+                    [
+                        {
+                            "@type": "Place",
+                            "address":
+                            {
+                                "@type": "PostalAddress",
+                                "addressCountry": "India",
+                                "addressLocality": "Ahmedabad",
+                                "streetAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India"
+                            },
+                            "name": "Narendra Modi Stadium, Motera: Ahmedabad"
+                        }
+                    ],
+                    "name": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023",
+                    "offers":
+                    [
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "700",
+                            "name": "BLOCK K BAY 7-UPPER",
+                            "price": "2000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "699",
+                            "name": "BLOCK Q BAY 7-UPPER",
+                            "price": "2000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "700",
+                            "name": "BLOCK P BAY 4-UPPER",
+                            "price": "2000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "600",
+                            "name": "BLOCK L BAY 4-UPPER",
+                            "price": "2000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "498",
+                            "name": "BLOCK J BAY 3-UPPER",
+                            "price": "2500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "700",
+                            "name": "BLOCK R BAY 3-UPPER",
+                            "price": "2500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "500",
+                            "name": "BLOCK G BAY 7-LOWER",
+                            "price": "3500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "400",
+                            "name": "BLOCK F BAY 4-LOWER",
+                            "price": "3500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "500",
+                            "name": "BLOCK C BAY 5-LOWER",
+                            "price": "3500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "500",
+                            "name": "BLOCK B BAY 7-LOWER",
+                            "price": "3500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "700",
+                            "name": "BLOCK M BAY 4-UPPER",
+                            "price": "4000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "695",
+                            "name": "BLOCK N BAY 6-UPPER",
+                            "price": "4000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "200",
+                            "name": "BLOCK H BAY 2-LOWER",
+                            "price": "4500.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "200",
+                            "name": "BLOCK D BAY 3-LOWER",
+                            "price": "6000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        },
+                        {
+                            "@type": "Offer",
+                            "URL": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                            "availability": "http://schema.org/InStock",
+                            "inventoryLevel": "400",
+                            "name": "BLOCK E BAY 5-LOWER",
+                            "price": "6000.00",
+                            "priceCurrency": "INR",
+                            "validFrom": "2023-10-14 14:00:00 +0000 UTC"
+                        }
+                    ],
+                    "startDate": "2023-10-14T14:00:00Z"
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "BreadcrumbList",
+                    "itemListElement":
+                    [
+                        {
+                            "@type": "ListItem",
+                            "item":
+                            [
+                                {
+                                    "@id": "https://in.bookmyshow.com/",
+                                    "name": "Home"
+                                }
+                            ],
+                            "position": 1
+                        },
+                        {
+                            "@type": "ListItem",
+                            "item":
+                            [
+                                {
+                                    "@id": "https://in.bookmyshow.com/explore/sports",
+                                    "name": "Sports"
+                                }
+                            ],
+                            "position": 2
+                        },
+                        {
+                            "@type": "ListItem",
+                            "item":
+                            [
+                                {
+                                    "@id": "https://in.bookmyshow.com/explore/sports?categories=cricket",
+                                    "name": "Cricket"
+                                }
+                            ],
+                            "position": 3
+                        },
+                        {
+                            "@type": "ListItem",
+                            "item":
+                            [
+                                {
+                                    "@id": "https://in.bookmyshow.com/sports/icc-mens-cricket-world-cup-india-2023/ET00367203?webview=true",
+                                    "name": "ICC MEN`S CRICKET WORLD CUP INDIA 2023"
+                                }
+                            ],
+                            "position": 4
+                        },
+                        {
+                            "@type": "ListItem",
+                            "item":
+                            [
+                                {
+                                    "@id": "https://in.bookmyshow.com/sports/india-vs-pakistan-icc-mens-cwc-2023/ET00367559",
+                                    "name": "INDIA vs PAKISTAN  - ICC MEN`S CWC 2023"
+                                }
+                            ],
+                            "position": 5
+                        }
+                    ]
+                }
+            ],
+            "slug": "india-vs-pakistan-icc-mens-cwc-2023",
+            "title": "IND vs PAK ODI Match Tickets | India vs Pakistan Cricket World Cup 2023 - BookMyShow"
+        },
+        "sessionAvailabilityMap":
+        {
+            "config":
+            {
+                "SPSM":
+                {
+                    "20231014":
+                    {
+                        "availableSeatsToDisplay":
+                        {},
+                        "showTimes":
+                        {
+                            "1400": 2
+                        },
+                        "status": 2
+                    }
+                }
+            },
+            "legend":
+            {
+                "0": "Do Not Color",
+                "1": "Sold Out",
+                "2": "Filling Fast",
+                "3": "Available"
+            }
+        },
+        "sessionsInfo":
+        [
+            {
+                "additionalData":
+                {
+                    "ChargeBF": "",
+                    "SDEnable": "N",
+                    "SDSeatDirection": "0",
+                    "SDSeatGap": "0"
+                },
+                "date": "20231014",
+                "sessionID": "10065",
+                "time": "1400",
+                "venueCode": "SPSM"
+            }
+        ],
+        "social":
+        {},
+        "ticketGroups":
+        {},
+        "venueInfo":
+        {
+            "Ahmedabad":
+            {
+                "SPSM":
+                {
+                    "AdditionalData":
+                    {
+                        "ChargeBF": "",
+                        "SDEnable": "N",
+                        "SDSeatDirection": "0",
+                        "SDSeatGap": "0"
+                    },
+                    "CinemaIsSVG": "NONSVG",
+                    "DisplayGroupCode": "SPSM",
+                    "IsFullLayout": "Y",
+                    "Latitude": "23.091844",
+                    "Longitude": "72.597554",
+                    "VenueAddress": "Motera Stadium Road, Motera, Ahmedabad, Gujarat 380005, India",
+                    "VenueCode": "SPSM",
+                    "VenueName": "Narendra Modi Stadium, Motera: Ahmedabad",
+                    "VenueType": "BT",
+                    "location": "Ahmedabad"
+                }
+            }
+        }
+    },
+    "status": 200
+}
