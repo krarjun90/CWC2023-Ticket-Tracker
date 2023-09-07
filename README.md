@@ -1,4 +1,5 @@
 # World Cup 2023 Ticket Tracker
+No Longer Works - It was worth the effort
 
 ## How to configure new matches?
 
