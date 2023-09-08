@@ -47,3 +47,6 @@ func main() {
 ```
 
 Configure the matches you need in matchNameMap and uncomment "printAllMatchData" in main.
+
+<img width="524" alt="Screenshot 2023-09-03 at 8 13 44 PM" src="https://github.com/krarjun90/CWC2023-Ticket-Tracker/assets/1826412/5684fe5c-9299-47fc-8fd8-3d501d040733">
+
